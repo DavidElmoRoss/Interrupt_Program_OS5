@@ -1,6 +1,7 @@
 /* Program to make LCD screen go red when LEFT
-   Pushbutton (SW3) is pressed, and go TEAL
-   when the RIGHT Pushbutton (SW2) is pressed.
+   Pushbutton (SW3) is pressed then released, 
+   and go TEAL when the RIGHT Pushbutton (SW2) 
+   is pressed.
    It will also count from 0-5 every 2 seconds
    using Ticker.
 */
